@@ -1,3 +1,3 @@
 # gitdemo
 Test reporsitory for teaching git
-Tere tulemast
+Tere tulemast ja rõõmsat git'imist!
