@@ -1,7 +1,7 @@
 ﻿See on teises uues harus lisatud fail
 Siin on mõlema haru muudatused
 
-
+Vaherida - konflikti testimiseks
 Serveris tehtud muutus
 
 Priidu tegi muutuse - see on GitHubis
