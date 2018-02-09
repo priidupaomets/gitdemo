@@ -4,4 +4,4 @@ Siin on mõlema haru muudatused
 
 Serveris tehtud muutus
 
-Priidu tegi muutuse
+Priidu tegi muutuse - see on GitHubis
