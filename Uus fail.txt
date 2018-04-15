@@ -1,4 +1,4 @@
-﻿See on teises uues harus lisatud fail
+See on teises uues harus lisatud fail
 Siin on mõlema haru muudatused
 
 Vaherida - konflikti testimiseks
@@ -6,3 +6,6 @@ Sama rida GitHubis
 Serveris tehtud muutus
 
 Priidu tegi muutuse - see on GitHubis
+———————
+
+fork’itud, clone’itud ja esimene branchi katsetus!
