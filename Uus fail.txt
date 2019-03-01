@@ -8,5 +8,6 @@ Serveris tehtud muutus
 Priidu tegi muutuse - see on GitHubis
 ———————
 Teise haru muudatus
+Kolmada haru muudatus
 
 fork’itud, clone’itud ja esimene branchi katsetus!
