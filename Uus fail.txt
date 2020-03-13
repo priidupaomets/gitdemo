@@ -11,3 +11,6 @@ Teise haru muudatus
 Kolmada haru muudatus
 
 fork’itud, clone’itud ja esimene branchi katsetus!
+
+13.03.2020
+Veel üks tervitus
